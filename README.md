@@ -23,7 +23,7 @@ This project was developed as part of the ALX Backend Web Development Capstone P
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<>/crochet-order-tracker-api.git
+   git clone https://github.com/<Nanya-000>/crochet-order-tracker-api.git
 
 2. Navigate to the project directory:
    ```bash
